@@ -13,12 +13,12 @@
 *   **Secure Access**: Multi-role authentication (Patient, Doctor, Admin) enforced via JWT and RBAC at both the API and database layers.
 *   **Premium UI**: Modern glassmorphism design language with full dark mode support and a highly responsive layout.
 
-## 🛠️ Technologies Used
+##  Technologies Used
 *   **Frontend**: React (Vite), Vanilla CSS (Custom Design System), Chart.js.
 *   **Backend**: Node.js, Express.
 *   **Database**: SQLite (via `better-sqlite3`) — Optimized for high-performance relational operations and ACID compliance.
 
-## 🗄️ Database Structure & Queries
+##  Database Structure & Queries
 The system is built on a highly normalized relational schema (7+ core entities) located at `server/medicare.db`. 
 
 ### Interactive Database Explorer
