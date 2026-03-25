@@ -1,4 +1,4 @@
-# 🏥 MediCare — Clinic Management System
+#  MediCare — Clinic Management System
 ### A Database Driven Approach to Healthcare & Clinical Operations.
 
 ---
