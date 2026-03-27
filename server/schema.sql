@@ -98,6 +98,8 @@ INSERT INTO Doctors (Name, Specialization, Phone, Email, Salary, City, DeptId) V
 ('Dr. Hari Bahadur',   'Neurologist',    '9800033333', 'hari@medicareclinic.com',    90000.00, 'Kathmandu', 3),
 ('Dr. Gita Rai',       'Pediatrician',   '9800044444', 'gita@medicareclinic.com',    70000.00, 'Lalitpur',  4),
 ('Dr. Bikash KC',      'Orthopedic',     '9800055555', 'bikash@medicareclinic.com',  80000.00, 'Bhaktapur', 5);
+('Dr. Arpan Adhikari', 'Gynocologist',   '9800066666', 'arpan@medicareclinic.com',  110000.00, 'Butwal', 6;
+
 
 -- Patients
 INSERT INTO Patients (Name, Age, Gender, Phone, City, BloodGroup) VALUES

@@ -92,3 +92,6 @@ npm install
 npm run dev
 ```
 *Dashboard will be accessible at `http://localhost:5173`*
+
+---
+© 2026 Kshitiz Adhikari. All rights reserved.   

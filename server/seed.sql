@@ -22,6 +22,7 @@ INSERT INTO doctors (name, email, password, phone, specialization, salary, city,
   ('Dr. Gita Rai',       'gita@medicareclinic.com',    '$2a$10$XQZQ1Z5Z5Z5Z5Z5Z5Z5Z5OxKqG8kZ5Z5Z5Z5Z5Z5Z5Z5Z5Z5Z5', '9800044444', 'Pediatrician',      70000, 'Lalitpur',  4, 'active'),
   ('Dr. Bikash KC',      'bikash@medicareclinic.com',  '$2a$10$XQZQ1Z5Z5Z5Z5Z5Z5Z5Z5OxKqG8kZ5Z5Z5Z5Z5Z5Z5Z5Z5Z5Z5', '9800055555', 'Orthopedic',        80000, 'Bhaktapur', 5, 'active'),
   ('Dr. Anup Joshi',     'anup@medicareclinic.com',    '$2a$10$XQZQ1Z5Z5Z5Z5Z5Z5Z5Z5OxKqG8kZ5Z5Z5Z5Z5Z5Z5Z5Z5Z5Z5', '9800066666', 'General Physician', 65000, 'Kathmandu', 6, 'active');
+  ('Dr. Aarpan adhikari',     'arpan@medicareclinic.com',    '$2a$10$XQZQ1Z5Z5Z5Z5Z5Z5Z5Z5OxKqG8kZ5Z5Z5Z5Z5Z5Z5Z5Z5Z5Z5', '9800077777', 'Gynocologist', 69000, 'Kamjung', 7, 'active');
 
 -- Patients Password for all: patient123 //suru ko lagi, paxi signup required
 INSERT INTO patients (name, email, password, age, gender, phone, city, blood_group, address, status) VALUES
